@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lieteryone.github.io/sitemap
+Sitemap: https://lieteryone.github.io/app/sitemap
+Sitemap: https://lieteryone.github.io/assets/sitemap
+Sitemap: https://lieteryone.github.io/css/sitemap
+Sitemap: https://lieteryone.github.io/includes/sitemap
+Sitemap: https://lieteryone.github.io/item/sitemap
+Sitemap: https://lieteryone.github.io/src/sitemap
